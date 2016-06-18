@@ -9,6 +9,4 @@
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
 * [Files to S3 - Backup tool](https://github.com/rubenmromero/files_to_S3-backup)
 
-#
-
 #### View my [profile](https://es.linkedin.com/in/rubenmromero) and connect with me on LinkedIn
