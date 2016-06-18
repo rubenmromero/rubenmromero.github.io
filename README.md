@@ -5,11 +5,8 @@
 # Current Projects
 
 * [EC2-AMIs tool](https://github.com/rubenmromero/ec2-amis)
-
 * [Git-Matrix script](https://github.com/rubenmromero/git-matrix)
-
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
-
 * [Files to S3 - Backup tool](https://github.com/rubenmromero/files_to_S3-backup)
 
 
