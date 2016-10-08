@@ -12,3 +12,5 @@
 * [Git-Matrix script](https://github.com/rubenmromero/git-matrix)
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
 * [Files-S3-Backup tool](https://github.com/rubenmromero/files-s3-backup)
+
+#### You can also find more scripts and functions in my [GitHub Gist profile](https://gist.github.com/rubenmromero)
