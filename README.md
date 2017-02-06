@@ -2,7 +2,7 @@
 
 ![AWS All 5 Sign](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws-all-5.png)
 
-#### You can view my detailed [profile](https://es.linkedin.com/in/rubenmromero) and connect with me on LinkedIn
+#### You can view my detailed [profile](https://es.linkedin.com/in/rubenmromero) and connect with me on LinkedIn.
 
 # Current Projects
 
@@ -13,4 +13,4 @@
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
 * [Files-S3-Backup tool](https://github.com/rubenmromero/files-s3-backup)
 
-#### You can also find more scripts and functions in my [GitHub Gist profile](https://gist.github.com/rubenmromero)
+#### You can also find more scripts and functions in my [GitHub Gist profile](https://gist.github.com/rubenmromero).
