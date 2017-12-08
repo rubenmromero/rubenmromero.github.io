@@ -12,5 +12,7 @@ In this section you can find tools and small projects implemented by me. Go in a
 * [Git-Matrix script](https://github.com/rubenmromero/git-matrix)
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
 * [Files-S3-Backup tool](https://github.com/rubenmromero/files-s3-backup)
+* [Vagrant-Custom-Linux utility](https://github.com/rubenmromero/vagrant-custom-linux)
+* [VHost Templates](https://github.com/rubenmromero/vhost-templates)
 
 You can also find more scripts and functions in my [GitHub Gist profile](https://gist.github.com/rubenmromero).
