@@ -1,4 +1,4 @@
-I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon Web Services as Solutions Architect, DevOps Engineer, SysOps Administrator and Developer (AWS Certified All 5 Group).
+I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon Web Services (AWS) as Solutions Architect, DevOps Engineer, SysOps Administrator and Developer.
 
 ![AWS All 5 Sign](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws-all-5.png)
 
