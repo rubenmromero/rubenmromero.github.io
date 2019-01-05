@@ -21,7 +21,7 @@ You can also find more scripts and functions on my [GitHub Gist profile](https:/
 
 # Freelance Services
 
-I develop various infrastructure services as a freelancer, through the [Stack Over Cloud](https://www.stackovercloud.com/en/) initiative. You can access the [home page](https://www.stackovercloud.com/en/) to take a look at our services and other useful information about this project, or you can also access the [blog](https://www.stackovercloud.com/blog/) to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
+I perform a variety of infrastructure services as a freelancer, through the [Stack Over Cloud](https://www.stackovercloud.com/en/) initiative. You can access the [home page](https://www.stackovercloud.com/en/) to take a look at our services and other useful information about this project, or you can also access the [blog](https://www.stackovercloud.com/blog/) to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
 
 ![Stack Over Cloud](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png)
 
