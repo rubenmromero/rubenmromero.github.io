@@ -25,7 +25,7 @@ I perform a variety of infrastructure services as a freelancer, through the [Sta
 
 [![Stack Over Cloud](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png)](https://www.stackovercloud.com/en/)
 
-# My Profile in related Services
+# My Profile in related services
 
 These are the services that I mostly use for my projects, and in which I have a public profile:
 
