@@ -23,12 +23,23 @@ You can also find more scripts and functions on my [GitHub Gist profile](https:/
 
 I perform a variety of infrastructure services as a freelancer, through the [Stack Over Cloud](https://www.stackovercloud.com/en/) initiative. You can access the [home page](https://www.stackovercloud.com/en/) to take a look at our services and other useful information about this project, or you can also access the [blog](https://www.stackovercloud.com/blog/) to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
 
-![Stack Over Cloud](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png)
+[![Stack Over Cloud](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png)](https://www.stackovercloud.com/en/)
 
-# My Profile in other Services
+# My Profile in related Services
 
-* [Twitter](https://twitter.com/ruben_m_romero)
-* [Google+](https://plus.google.com/+rubenmromero)
-* [Skype](skype:rubenmromero1)
+These are the services that I mostly use for my projects, and in which I have a public profile:
+
+* [GitHub](https://github.com/rubenmromero)
+* [GitHub Gist](https://gist.github.com/rubenmromero)
+* [GitLab](https://gitlab.com/rubenmromero)
 * [Bitbucket](https://bitbucket.org/rubenmromero/)
 * [Docker Hub](https://hub.docker.com/u/rubenmromero)
+
+# Contact Information
+
+You can contact me through any of the following ways:
+
+* Gmail   => [rubenmromero@gmail.com](rubenmromero@gmail.com)
+* Twitter => [@ruben_m_romero](https://twitter.com/ruben_m_romero)
+* Google+ => [+Rubén Martín Romero](https://plus.google.com/+rubenmromero)
+* Skype   => [rubenmromero1](skype:rubenmromero1)
