@@ -40,7 +40,7 @@ These are the services that I mostly use for my projects, and in which I have a 
 You can contact me through any of the following ways:
 
 * Gmail => [rubenmromero@gmail.com](mailto:rubenmromero@gmail.com)
-* LinkedIn => [rubenmromero](https://www.linkedin.com/in/rubenmromero/)
+* LinkedIn => [Rubén Martín Romero](https://www.linkedin.com/in/rubenmromero/)
 * Twitter => [@ruben_m_romero](https://twitter.com/ruben_m_romero)
 * Google+ => [+Rubén Martín Romero](https://plus.google.com/+rubenmromero)
 * Skype => [rubenmromero1](skype:rubenmromero1)
