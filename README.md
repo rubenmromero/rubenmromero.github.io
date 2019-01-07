@@ -2,7 +2,7 @@ I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon 
 
 ![AWS All 5 Sign](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png)
 
-You can view my [detailed profile](https://es.linkedin.com/in/rubenmromero) and connect with me on LinkedIn.
+You can view my [detailed profile](https://www.linkedin.com/in/rubenmromero/) and connect with me on [LinkedIn](https://www.linkedin.com/in/rubenmromero/).
 
 # Current Projects
 
@@ -40,6 +40,7 @@ These are the services that I mostly use for my projects, and in which I have a 
 You can contact me through any of the following ways:
 
 * Gmail => [rubenmromero@gmail.com](mailto:rubenmromero@gmail.com)
+* LinkedIn => [rubenmromero](https://www.linkedin.com/in/rubenmromero/)
 * Twitter => [@ruben_m_romero](https://twitter.com/ruben_m_romero)
 * Google+ => [+Rubén Martín Romero](https://plus.google.com/+rubenmromero)
 * Skype => [rubenmromero1](skype:rubenmromero1)
