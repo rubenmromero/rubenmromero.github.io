@@ -1,10 +1,12 @@
+# Professional Profile
+
 I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon Web Services (AWS) as Solutions Architect, DevOps Engineer, SysOps Administrator and Developer.
 
-![AWS All 5 Sign](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png)
+[![AWS All 5 Sign](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png)](https://aws.amazon.com/certification/)
 
 You can view my [detailed profile](https://www.linkedin.com/in/rubenmromero/) and connect with me on [LinkedIn](https://www.linkedin.com/in/rubenmromero/).
 
-# Current Projects
+# Git Projects
 
 In this section you can find tools and small projects implemented by me, which are available on my [GitHub profile](https://github.com/rubenmromero). Go in and feel free to help yourself!
 
