@@ -12,6 +12,7 @@ In this section you can find tools and small projects implemented by me, which a
 
 * [EC2-AMIs tool](https://github.com/rubenmromero/ec2-amis)
 * [Files-S3-Backup tool](https://github.com/rubenmromero/files-s3-backup)
+* [AWS Utils](https://github.com/rubenmromero/aws-utils)
 * [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
 * [Nginx-uWSGI-Python configuration example](https://github.com/rubenmromero/nginx-uwsgi-python)
 * [Vagrant-Custom-Linux utility](https://github.com/rubenmromero/vagrant-custom-linux)
