@@ -2,7 +2,7 @@
 
 I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon Web Services (AWS) as Solutions Architect, DevOps Engineer, SysOps Administrator and Developer.
 
-<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png" alt="AWS All 5 Sign" align="middle"></a>
+<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png" alt="AWS All 5 Sign" style="display:block; margin-left: auto; margin-right: auto;"></a>
 
 You can view my <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">detailed profile</a> and connect with me on <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">LinkedIn</a>.
 
