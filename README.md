@@ -8,42 +8,42 @@ You can view my <a href="https://www.linkedin.com/in/rubenmromero/" target="_bla
 
 # Git Projects
 
-In this section you can find tools and small projects implemented by me, which are available on my [GitHub profile](https://github.com/rubenmromero). Go in and feel free to help yourself!
+In this section you can find tools and small projects implemented by me, which are available on my <a href="https://github.com/rubenmromero" target="_blank">GitHub profile</a>. Go in and feel free to help yourself!
 
 * <a href="https://github.com/rubenmromero/ec2-amis" target="_blank">EC2-AMIs tool</a>
-* [Files-S3-Backup tool](https://github.com/rubenmromero/files-s3-backup)
-* [AWS Utils](https://github.com/rubenmromero/aws-utils)
-* [Bitbucket-Jenkins-Connector web service](https://github.com/rubenmromero/bitbucket-jenkins-connector)
-* [Nginx-uWSGI-Python configuration example](https://github.com/rubenmromero/nginx-uwsgi-python)
-* [Vagrant-Custom-Linux utility](https://github.com/rubenmromero/vagrant-custom-linux)
-* [Git-Matrix script](https://github.com/rubenmromero/git-matrix)
-* [SSH Tunneling](https://github.com/rubenmromero/ssh-tunneling)
-* [VHost Templates](https://github.com/rubenmromero/vhost-templates)
+* <a href="https://github.com/rubenmromero/files-s3-backup" target="_blank">Files-S3-Backup tool</a>
+* <a href="https://github.com/rubenmromero/aws-utils" target="_blank">AWS Utils</a>
+* <a href="https://github.com/rubenmromero/bitbucket-jenkins-connector" target="_blank">Bitbucket-Jenkins-Connector web service</a>
+* <a href="https://github.com/rubenmromero/nginx-uwsgi-python" target="_blank">Nginx-uWSGI-Python configuration example</a>
+* <a href="https://github.com/rubenmromero/vagrant-custom-linux" target="_blank">Vagrant-Custom-Linux utility</a>
+* <a href="https://github.com/rubenmromero/git-matrix" target="_blank">Git-Matrix script</a>
+* <a href="https://github.com/rubenmromero/ssh-tunneling" target="_blank">SSH Tunneling</a>
+* <a href="https://github.com/rubenmromero/vhost-templates" target="_blank">VHost Templates</a>
 
-You can also find more scripts and functions on my [GitHub Gist profile](https://gist.github.com/rubenmromero), and other test projects on my [GitLab profile](https://gitlab.com/rubenmromero).
+You can also find more scripts and functions on my <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist profile</a>, and other test projects on my <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab profile</a>.
 
 # Freelance Services
 
-I perform a variety of infrastructure services as a freelancer, through the [Stack Over Cloud](https://www.stackovercloud.com/en/) initiative. You can access the [home page](https://www.stackovercloud.com/en/) to take a look at our services and other useful information about this project, or you can also access the [blog](https://www.stackovercloud.com/blog/) to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
+I perform a variety of infrastructure services as a freelancer, through the <a href="https://www.stackovercloud.com/en/" target="_blank">Stack Over Cloud</a> initiative. You can access the <a href="https://www.stackovercloud.com/en/" target="_blank">home page</a> to take a look at our services and other useful information about this project, or you can also access the <a href="https://www.stackovercloud.com/blog/" target="_blank">blog</a> to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
 
-[![Stack Over Cloud](https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png)](https://www.stackovercloud.com/en/)
+<a href="https://www.stackovercloud.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png" alt="Stack Over Cloud" style="display:block; margin-left: auto; margin-right: auto;"></a>
 
 # My Profile in related services
 
 These are the services that I mostly use for my projects, and in which I have a public profile:
 
-* [GitHub](https://github.com/rubenmromero)
-* [GitHub Gist](https://gist.github.com/rubenmromero)
-* [GitLab](https://gitlab.com/rubenmromero)
-* [Bitbucket](https://bitbucket.org/rubenmromero/)
-* [Docker Hub](https://hub.docker.com/u/rubenmromero)
+* <a href="https://github.com/rubenmromero" target="_blank">GitHub</a>
+* <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist</a>
+* <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab</a>
+* <a href="https://bitbucket.org/rubenmromero/" target="_blank">Bitbucket</a>
+* <a href="https://hub.docker.com/u/rubenmromero" target="_blank">Docker Hub</a>
 
 # Contact Information
 
 You can contact me through any of the following ways:
 
 * Gmail => [rubenmromero@gmail.com](mailto:rubenmromero@gmail.com)
-* LinkedIn => [Rubén Martín Romero](https://www.linkedin.com/in/rubenmromero/)
-* Twitter => [@ruben_m_romero](https://twitter.com/ruben_m_romero)
-* Google+ => [+Rubén Martín Romero](https://plus.google.com/+rubenmromero)
+* LinkedIn => <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">Rubén Martín Romero</a>
+* Twitter => <a href="https://twitter.com/ruben_m_romero" target="_blank">@ruben_m_romero</a>
+* Google+ => <a href="https://plus.google.com/+rubenmromero" target="_blank">+Rubén Martín Romero</a>
 * Skype => [rubenmromero1](skype:rubenmromero1)
