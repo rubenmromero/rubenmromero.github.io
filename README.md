@@ -43,7 +43,7 @@ These are the services that I mostly use for my projects, and in which I have a 
 You can contact me through any of the following ways:
 
 * Gmail => [rubenmromero@gmail.com](mailto:rubenmromero@gmail.com)
-* <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/linkedin_icon.png" alt="LinkedIn Icon" height="40" width="40" style="vertical-align: middle;"></a> <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">Rubén Martín Romero</a>
-* <a href="https://twitter.com/ruben_m_romero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/twitter_icon.png" alt="Twitter Icon" height="40" width="40" style="vertical-align: middle;"></a> <a href="https://twitter.com/ruben_m_romero" target="_blank">@ruben_m_romero</a>
+* <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/linkedin_icon.png" alt="LinkedIn Icon" height="30" width="30" style="vertical-align: middle;"></a> <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">Rubén Martín Romero</a>
+* <a href="https://twitter.com/ruben_m_romero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/twitter_icon.png" alt="Twitter Icon" height="30" width="30" style="vertical-align: middle;"></a> <a href="https://twitter.com/ruben_m_romero" target="_blank">@ruben_m_romero</a>
 * Google+ => <a href="https://plus.google.com/+rubenmromero" target="_blank">+Rubén Martín Romero</a>
 * Skype => [rubenmromero1](skype:rubenmromero1)
