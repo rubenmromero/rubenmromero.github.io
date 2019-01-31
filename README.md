@@ -2,7 +2,7 @@
 
 I am a Senior Systems Architect and Cloud Computing Expert, certified by Amazon Web Services (AWS) as Solutions Architect, DevOps Engineer, SysOps Administrator and Developer.
 
-<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png" alt="AWS All 5 Sign" style="display: block; margin-left: auto; margin-right: auto;"></a>
+<a href="https://aws.amazon.com/certification/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/aws_all_5.png" alt="AWS All 5 Sign" class="image"></a>
 
 You can view my <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">detailed profile</a> and connect with me on <a href="https://www.linkedin.com/in/rubenmromero/" target="_blank">LinkedIn</a>.
 
@@ -26,14 +26,14 @@ You can also find more scripts and functions on my <a href="https://gist.github.
 
 I perform a variety of infrastructure services as a freelancer, through the <a href="https://www.stackovercloud.com/en/" target="_blank">Stack Over Cloud</a> initiative. You can access the <a href="https://www.stackovercloud.com/en/" target="_blank">home page</a> to take a look at our services and other useful information about this project, or you can also access the <a href="https://www.stackovercloud.com/blog/" target="_blank">blog</a> to read the latest news about Cloud Computing, AWS, Kubernetes, OpenShift, Ansible, Jenkins and much more!
 
-<a href="https://www.stackovercloud.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png" alt="Stack Over Cloud" style="display: block; margin-left: auto; margin-right: auto;"></a>
+<a href="https://www.stackovercloud.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/icon_logo.png" alt="Stack Over Cloud" class="image"></a>
 
 # My Profile in related services
 
 These are the services that I mostly use for my projects, and in which I have a public profile:
 
-* <a href="https://github.com/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/github_icon.png" alt="GitHub Icon" height="30" width="30" style="vertical-align: middle; margin: 3px 3px"></a> <a href="https://github.com/rubenmromero" target="_blank">GitHub</a>
-* <a href="https://gist.github.com/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/github_icon.png" alt="GitHub Icon" height="30" width="30" style="vertical-align: middle; margin: 3px 3px"></a> <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist</a>
+* <a href="https://github.com/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/github_icon.png" alt="GitHub Icon" class="icon"></a> <a href="https://github.com/rubenmromero" target="_blank">GitHub</a>
+* <a href="https://gist.github.com/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/github_icon.png" alt="GitHub Icon" class="icon"></a> <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist</a>
 * <a href="https://gitlab.com/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/gitlab_icon.png" alt="GitLab Icon" height="30" width="30" style="vertical-align: middle; margin: 3px 3px"></a> <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab</a>
 * <a href="https://bitbucket.org/rubenmromero/" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/bitbucket_icon.png" alt="Bitbucket Icon" height="30" width="30" style="vertical-align: middle; margin: 3px 3px"></a> <a href="https://bitbucket.org/rubenmromero/" target="_blank">Bitbucket</a>
 * <a href="https://hub.docker.com/u/rubenmromero" target="_blank"><img src="https://raw.githubusercontent.com/rubenmromero/rubenmromero.github.io/master/images/docker_hub_icon.png" alt="Docker Hub Icon" height="30" width="30" style="vertical-align: middle; margin: 3px 3px"></a> <a href="https://hub.docker.com/u/rubenmromero" target="_blank">Docker Hub</a>
