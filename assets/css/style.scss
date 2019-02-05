@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+	text-align: justify;
+}
+
 body:after {
 	content:"";
 	position:fixed; /* stretch a fixed position to the whole screen */
@@ -16,7 +20,6 @@ body:after {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	text-align: justify;
 }
 
 .image {
