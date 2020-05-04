@@ -8,7 +8,7 @@ You can view my <a href="https://www.linkedin.com/in/rubenmromero/" target="_bla
 
 # Git Projects
 
-In this section you can find tools and small projects implemented by me, which are available on my <a href="https://github.com/rubenmromero" target="_blank">GitHub profile</a>. Go in and feel free to help yourself!
+In this section you can find tools and small projects implemented by me, which are available in my <a href="https://github.com/rubenmromero" target="_blank">GitHub profile</a>. Go in and feel free to help yourself!
 
 * <a href="https://github.com/rubenmromero/ec2-amis" target="_blank">EC2-AMIs tool</a>
 * <a href="https://github.com/rubenmromero/files-s3-backup" target="_blank">Files-S3-Backup tool</a>
@@ -24,7 +24,7 @@ In this section you can find tools and small projects implemented by me, which a
 * <a href="https://github.com/rubenmromero/vhost-templates" target="_blank">VHost Templates</a>
 * <a href="https://github.com/rubenmromero/rubenmromero.github.io" target="_blank">GitHub Pages Personal Site</a>
 
-You can also find more scripts and functions on my <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist profile</a>, and other test projects on my <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab profile</a>.
+You can also find more scripts and functions in my <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist profile</a>, and other test projects in my <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab profile</a>.
 
 # Freelance Services
 
