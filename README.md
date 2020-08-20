@@ -10,17 +10,17 @@ You can view my <a href="https://www.linkedin.com/in/rubenmromero/" target="_bla
 
 In this section you can find tools and small projects implemented by me, which are available in my <a href="https://github.com/rubenmromero" target="_blank">GitHub profile</a>. Go in and feel free to help yourself!
 
-* <a href="https://github.com/rubenmromero/ec2-amis" target="_blank">EC2-AMIs tool</a>
-* <a href="https://github.com/rubenmromero/files-s3-backup" target="_blank">Files-S3-Backup tool</a>
-* <a href="https://github.com/rubenmromero/deploy-docker-app-aws-eb" target="_blank">Deploy-Docker-App-AWS-EB IaC project</a>
-* <a href="https://github.com/rubenmromero/thingsboard-aws-eb" target="_blank">ThingsBoard-AWS-EB IaC project</a>
+* <a href="https://github.com/rubenmromero/ec2-amis" target="_blank">EC2-AMIs</a> tool
+* <a href="https://github.com/rubenmromero/files-s3-backup" target="_blank">Files-S3-Backup</a> tool
+* <a href="https://github.com/rubenmromero/deploy-docker-app-aws-eb" target="_blank">Deploy-Docker-App-AWS-EB</a> IaC project
+* <a href="https://github.com/rubenmromero/thingsboard-aws-eb" target="_blank">ThingsBoard-AWS-EB</a> IaC project
 * <a href="https://github.com/rubenmromero/aws-utils" target="_blank">AWS Utils</a>
-* <a href="https://github.com/rubenmromero/nginx-uwsgi-python" target="_blank">Nginx-uWSGI-Python configuration example</a>
-* <a href="https://github.com/rubenmromero/endpoint-checker" target="_blank">Endpoint-Checker tool</a>
-* <a href="https://github.com/rubenmromero/bitbucket-jenkins-connector" target="_blank">Bitbucket-Jenkins-Connector web service</a>
-* <a href="https://github.com/rubenmromero/git-matrix" target="_blank">Git-Matrix script</a>
-* <a href="https://github.com/rubenmromero/vagrant-custom-linux" target="_blank">Vagrant-Custom-Linux utility</a>
-* <a href="https://github.com/rubenmromero/ssh-tunneling" target="_blank">SSH Tunneling tutorial</a>
+* <a href="https://github.com/rubenmromero/nginx-uwsgi-python" target="_blank">Nginx-uWSGI-Python</a> configuration example
+* <a href="https://github.com/rubenmromero/endpoint-checker" target="_blank">Endpoint-Checker</a> tool
+* <a href="https://github.com/rubenmromero/bitbucket-jenkins-connector" target="_blank">Bitbucket-Jenkins-Connector</a> web service
+* <a href="https://github.com/rubenmromero/git-matrix" target="_blank">Git-Matrix</a> script
+* <a href="https://github.com/rubenmromero/vagrant-custom-linux" target="_blank">Vagrant-Custom-Linux</a> utility
+* <a href="https://github.com/rubenmromero/ssh-tunneling" target="_blank">SSH Tunneling</a> tutorial
 * <a href="https://github.com/rubenmromero/vhost-templates" target="_blank">VHost Templates</a>
 * <a href="https://github.com/rubenmromero/rubenmromero.github.io" target="_blank">GitHub Pages Personal Site</a>
 
