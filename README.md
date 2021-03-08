@@ -23,6 +23,7 @@ In this section you can find tools and small projects implemented by me, which a
 * <a href="https://github.com/rubenmromero/vhost-templates" target="_blank">VHost Templates</a>
 * <a href="https://github.com/rubenmromero/ssh-tunneling" target="_blank">SSH Tunneling</a> tutorial
 * <a href="https://github.com/rubenmromero/git-cheatsheet" target="_blank">Git Cheatsheet</a>
+* <a href="https://github.com/rubenmromero/fastly-s3-integration" target="_blank">Fastly S3 Integration</a> tutorial
 * <a href="https://github.com/rubenmromero/rubenmromero.github.io" target="_blank">GitHub Pages Personal Site</a>
 
 You can also find more scripts and functions in my <a href="https://gist.github.com/rubenmromero" target="_blank">GitHub Gist profile</a>, and other test projects in my <a href="https://gitlab.com/rubenmromero" target="_blank">GitLab profile</a>.
@@ -57,3 +58,4 @@ You can contact me through any of the following ways:
 * <a href="https://www.rubenmromero.com/">Home</a> (this page)
 * <a href="https://www.rubenmromero.com/ssh-tunneling/">SSH Tunneling</a>
 * <a href="https://www.rubenmromero.com/git-cheatsheet/">Git Cheatsheet</a>
+* <a href="https://www.rubenmromero.com/fastly-s3-integration/">Fastly S3 Integration</a>
