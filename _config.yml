@@ -1,8 +1,12 @@
 title: Ruben Martin
 description: Professional Profile and Own Projects
-#google_analytics: UA-133287190-1
+google_analytics: UA-133287190-1
 # Google Analytics 4
-google_analytics: G-4ZVNTXX89G
+analytics:
+  provider: google-gtag
+  google:
+    measurement_id: G-4ZVNTXX89G
+    anonymize_ip: true
 show_downloads: false
 theme: jekyll-theme-hacker
 
