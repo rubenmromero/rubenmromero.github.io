@@ -30,9 +30,9 @@ You can also find more scripts and functions in my <a href="https://gist.github.
 
 # Freelance Services
 
-I perform a variety of infrastructure services as a freelancer, through the <a href="https://www.stackovercloud.com/en/" target="_blank">Stack Over Cloud</a> initiative. You can access the <a href="https://www.stackovercloud.com/en/" target="_blank">home page</a> to take a look at our services and other useful information about this project, or you can also access the <a href="https://www.stackovercloud.com/blog/" target="_blank">blog</a> to read the latest news about <a href="https://www.stackovercloud.com/?s=cloud+computing" target="_blank">Cloud Computing</a>, <a href="https://www.stackovercloud.com/?s=aws" target="_blank">AWS</a>, <a href="https://www.stackovercloud.com/?s=kubernetes" target="_blank">Kubernetes</a>, <a href="https://www.stackovercloud.com/?s=openshift" target="_blank">OpenShift</a>, <a href="https://www.stackovercloud.com/?s=ansible" target="_blank">Ansible</a>, <a href="https://www.stackovercloud.com/?s=jenkins" target="_blank">Jenkins</a> and much more!
+I perform a variety of infrastructure services as a freelancer, through the <a href="https://www.linkedin.com/company/stackovercloud" target="_blank">Stack Over Cloud</a> initiative.
 
-<a href="https://www.stackovercloud.com/en/" target="_blank"><img src="https://rubenmromero.s3.eu-west-1.amazonaws.com/images/icon_logo.png" alt="Stack Over Cloud" class="image"></a>
+<a href="https://www.linkedin.com/company/stackovercloud" target="_blank"><img src="https://rubenmromero.s3.eu-west-1.amazonaws.com/images/icon_logo.png" alt="Stack Over Cloud" class="image"></a>
 
 # My Profile in related services
 
